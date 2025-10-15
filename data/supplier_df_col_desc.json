@@ -1,0 +1,20 @@
+{
+  "order_id": "Unique identifier for the order",
+  "order_date": "Date when the order was placed",
+  "delivery_date": "Scheduled or expected delivery date for the order",
+  "component_id": "Unique identifier for the component being ordered",
+  "component_name": "Name or description of the component",
+  "cost_per_unit": "Cost of each individual unit of the component",
+  "quantity": "Number of units ordered",
+  "supplier_id": "Unique identifier for the supplier",
+  "supplier_name": "Name of the supplier providing the components",
+  "supplier_region": "Geographic region where the supplier is located",
+  "geopolitical_risk": "Assessment of geopolitical risks associated with the supplier's location",
+  "avg_quality_score": "Average quality rating or score for the supplier's components",
+  "is_critical": "Indicator of whether the component is critical to operations (e.g., boolean)",
+  "region": "Geographic region for delivery or operations",
+  "delivered_on_time": "Flag indicating if the delivery was on time (e.g., yes/no or boolean)",
+  "shipping_cost": "Cost associated with shipping the order",
+  "weather_event": "Record of any weather-related events impacting the order",
+  "defect_rate": "Percentage or rate of defective units in the order"
+}
