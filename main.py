@@ -49,8 +49,9 @@ try:
                 "role":"user", "content": master_prompt
             }
         ]
-        response = client.chat('gpt-oss:120b', messages=message)['message'].content
-        return response
+        response = client.chat('gpt-oss:120b', messages=message)
+        print(response)
+        return response['message'].content
 
         
     if "embedding_model" not in st.session_state.keys():
