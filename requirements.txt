@@ -1,0 +1,9 @@
+streamlit
+langchain
+ollama
+dotenv
+nltk
+langchain-community
+# faiss
+faiss-cpu
+sentence-transformers
