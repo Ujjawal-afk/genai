@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 GenAI Project
 
-A short description of what your project does and why it exists.
+A chatbot app that makes life easy
 
 ---
 
